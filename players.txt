@@ -1,0 +1,4 @@
+Johan Björnsson 20.0 1.0
+Olle Stefansen 19.0 2.0
+Charlie Chans 18.0 3.0
+William Karlsson 19.6 4.0 
